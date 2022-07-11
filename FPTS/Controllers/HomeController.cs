@@ -10,6 +10,8 @@ namespace FPTS.Controllers
     {
         public ActionResult Index()
         {
+            var x = "";
+                
             return View();
         }
     }
